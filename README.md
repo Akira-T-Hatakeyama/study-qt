@@ -1,2 +1,2 @@
 # study-qt
-As title says all, 
+As title says, I start study Qt/QML.
