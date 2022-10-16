@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DrawingCanvas.qml</file>
+    </qresource>
+</RCC>
